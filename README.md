@@ -1,6 +1,7 @@
 # student-performance-ml
 Predicting student performance index using Machine Learning.
-# Models Used - Score 
+# | Model | Score |
+|-------|-------|
 | Linear Regression | 98.92% |
 | Gradient Boosting | 98.85% |
 | Random Forest | 98.55% |
